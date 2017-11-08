@@ -1,4 +1,5 @@
 /**
+ * 在需要兼容的CSS后方引入这个文件就可以了
  * StyleFix 1.0.3 & PrefixFree 1.0.7
  * @author Lea Verou
  * MIT license
